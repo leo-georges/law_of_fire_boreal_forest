@@ -20,5 +20,7 @@ Jupyter notebooks : modèles investigués (code pas très propore)
         - differential_pdt-1 : modèle différentiel avec prise en compte des pas de temps précédents
         - transformers : methode generative AI transformers pour la prédiction
 
-Projet_R_D_Loi_du_Feu_GEORGES_REGNIER_P1.pdf : rapport phase 1 (janvier 2026)
-Projet_R_D_Loi_du_Feu_GEORGES_REGNIER_P2.pdf : rapport phase 2 (mars 2026)
+Projet_R_D_Loi_du_Feu.pdf : rapport phase 1 et phase 2 mis bout à bout
+Auteurs: Georges Leo, Régnier Nathan
+Superviseurs : Magnin Morgan (Ecole Centrale Nantes - LS2N), Ribeiro Tony (Ecole Centrale Nantes - LS2N)
+
