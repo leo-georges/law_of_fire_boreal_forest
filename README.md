@@ -10,7 +10,7 @@ climate_data folder : He, F., Shakun, J., Clark, P. et al. Northern Hemisphere f
 
 25155593 folder : Girardin, M.P., Gaboriau, D.M., Ali, A.A. et al. Boreal forest cover was reduced in the mid-Holocene with warming and recurring wildfires. Commun Earth Environ 5, 176 (2024). https://doi.org/10.1038/s43247-024-01340-8
 
-Jupyter notebooks : modèles investigués (code pas très propore) 
+Jupyter notebooks : modèles investigués (code reste à factoriser) 
         - linear model : modèle linéiaire 
         - differential model : modèle différentiel 
         - differential_pdt-1 : modèle différentiel avec pas de temps précédents et étude stabilité méthode 'train_test_split' 
